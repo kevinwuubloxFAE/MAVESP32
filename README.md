@@ -2,7 +2,7 @@
 MAVESP32 codes are modified from MAVESP8266: https://github.com/tridge/mavesp8266
 
 The codes are modified on Adruino IDE 1.8.13
-The lib codes (mavesp8266) is placed in C:\Users\<username>\Documents\Arduino\libraries
+The lib codes (mavesp8266.rar) is placed in C:\Users\<username>\Documents\Arduino\libraries
 The ino code (MAVesp32.ino) is placed in C:\Users\<username>\Documents\Arduino\MAVesp32
 
 #Setting in Arduino IDE with u-blox NINA-W102
