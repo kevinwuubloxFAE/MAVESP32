@@ -7,7 +7,7 @@ The lib code (src/mavesp8266.*) is placed in .\Documents\Arduino\libraries\maves
 
 The ino code (example/MAVesp32.ino) is placed in .\Documents\Arduino\MAVesp32
 
-The codes is modified on Arduino IDE 1.8.13 and testing on an [ublox NINA-W102](https://www.u-blox.com/en/product/nina-w10-series-open-cpu)
+The codes is modified on Arduino IDE 1.8.13 and testing on an [ublox NINA-W102](https://www.u-blox.com/en/product/nina-w10-series-open-cpu) and an [ESP32 Pico Kit](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-pico-kit.html)
 
 ## Device setting in the Arduino IDE
 In the Tools -> Board menu, select “ESP32 Dev Module” and then select the following; 
