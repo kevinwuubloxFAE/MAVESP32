@@ -3,7 +3,7 @@ MAVESP32 is modified from [MAVESP8266](https://github.com/tridge/mavesp8266)
 
 The lib code (src/mavesp8266.*) is placed in .\Documents\Arduino\libraries\mavesp8266\
 
-The ino code (example/MAVesp32.ino) is placed in C:\Users\<username>\Documents\Arduino\MAVesp32
+The ino code (example/MAVesp32.ino) is placed in .\Documents\Arduino\MAVesp32
 
 Check "kewu" marker for modifying history
 
