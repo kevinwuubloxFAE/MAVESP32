@@ -1,9 +1,12 @@
 # MAVESP32
 The source codes of MAVESP32 is from [MAVESP8266](https://github.com/tridge/mavesp8266)
-It has been modified for ESP32 chipset
+
+It has been modified for ESP32 chipset usage. Check "kewu" marker for modifying history
+
 The lib code (src/mavesp8266.*) is placed in .\Documents\Arduino\libraries\mavesp8266\
+
 The ino code (example/MAVesp32.ino) is placed in .\Documents\Arduino\MAVesp32
-Check "kewu" marker for modifying history
+
 The codes is modified on Arduino IDE 1.8.13 and testing on an [ublox NINA-W102](https://www.u-blox.com/en/product/nina-w10-series-open-cpu)
 
 ## Device setting in the Arduino IDE
