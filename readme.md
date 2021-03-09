@@ -5,6 +5,8 @@ The lib code (src/mavesp8266.*) is placed in C:\Users\<username>\Documents\Ardui
 
 The ino code (example/MAVesp32.ino) is placed in C:\Users\<username>\Documents\Arduino\MAVesp32
 
+Check "kewu" marker for modifying history
+
 The codes is modified on Arduino IDE 1.8.13
 
 ## Device setting in the Arduino IDE
