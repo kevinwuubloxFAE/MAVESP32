@@ -9,8 +9,13 @@ The codes is modified on Arduino IDE 1.8.13
 
 ## Device setting in the Arduino IDE
 In the Tools -> Board menu, select “ESP32 Dev Module” and then select the following; 
+
 •   Flash Mode: “DIO” 
-•   Flash Frequency: “40 MHz” 
+
+•   Flash Frequency: “40 MHz”
+
 •   Flash Size: “2 MB (16 Mb)” 
+
 •   Upload Speed “921600” 
+
 •   Core Debug Level “Debug” (optional) 
