@@ -22,3 +22,10 @@ In the Tools -> Board menu, select “ESP32 Dev Module” and then select the fo
 
 •   Core Debug Level “Debug” (optional) 
 
+## Wiring
+[ESP32 pico kit](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-pico-kit.html) can be used for communicating
+[ESP8266 wifi telemetry](https://ardupilot.org/copter/docs/common-esp8266-telemetry.html) is shown how to wire it up.
+ESP32 Pico TXD (Pin 13) <--> RXD PX4
+ESP32 Pico RXD (12) <--> TXD PX4
+ESP32 Pico 5V (Pin 19) <--> 5V PX4
+ESP32 Pico GND (Pin20) <--> GND PX4
